@@ -14,122 +14,47 @@
         <feature name="default" enabled="true" />
       </package>
     </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/section_02/variables_and_mutability/Cargo.toml">
+      <package file="$PROJECT_DIR$/section_02/variables_and_mutability">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45eeb234-5666-4d2d-9d18-e1056985b1a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/learning-rust-language.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/src/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/src/main.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/.rustc_info.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/CACHEDIR.TAG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.cargo-lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-2c548942e3b64bad/dep-test-bin-about_me" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-2c548942e3b64bad/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-2c548942e3b64bad/test-bin-about_me" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-2c548942e3b64bad/test-bin-about_me.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-ac642b01579f8442/bin-about_me" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-ac642b01579f8442/bin-about_me.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-ac642b01579f8442/dep-bin-about_me" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-ac642b01579f8442/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-c102aec51d5ecf02/bin-about_me" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-c102aec51d5ecf02/bin-about_me.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-c102aec51d5ecf02/dep-bin-about_me" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/.fingerprint/about_me-c102aec51d5ecf02/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/about_me.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/about_me.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/about_me.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/deps/about_me-2c548942e3b64bad.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/deps/about_me-ac642b01579f8442.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/deps/about_me.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/deps/about_me.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/deps/about_me.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/deps/libabout_me-2c548942e3b64bad.rmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/deps/libabout_me-ac642b01579f8442.rmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-0no8bi56nldd5/s-hd824eybja-1k5bsa2-5rjrosizrxg4lrqo217odc0x8/dep-graph.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-0no8bi56nldd5/s-hd824eybja-1k5bsa2-5rjrosizrxg4lrqo217odc0x8/query-cache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-0no8bi56nldd5/s-hd824eybja-1k5bsa2-5rjrosizrxg4lrqo217odc0x8/work-products.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-0no8bi56nldd5/s-hd824eybja-1k5bsa2.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3-efnyzn495a89aav51i7ncmhql/08lbewwiohvieh8hhh7vu0bkg.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3-efnyzn495a89aav51i7ncmhql/1y0syz2agkohuw979i2djwucu.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3-efnyzn495a89aav51i7ncmhql/3guxpevxheizphrrcpn03nekm.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3-efnyzn495a89aav51i7ncmhql/94ken7r0kyn3oq5zzqicbk3ez.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3-efnyzn495a89aav51i7ncmhql/9myalr8cwnzsjny8j7u9agaju.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3-efnyzn495a89aav51i7ncmhql/dep-graph.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3-efnyzn495a89aav51i7ncmhql/ee53xv4ptdjxfnhpp5o9xaha3.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3-efnyzn495a89aav51i7ncmhql/query-cache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3-efnyzn495a89aav51i7ncmhql/work-products.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-1ppetbvmbukd0/s-hd81x1i4el-1gsqud3.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-2qfynxqdl6xwg/s-hd824eybgb-0mpcgzw-emxmea5mvnihgout7s1qm0t8n/dep-graph.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-2qfynxqdl6xwg/s-hd824eybgb-0mpcgzw-emxmea5mvnihgout7s1qm0t8n/query-cache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-2qfynxqdl6xwg/s-hd824eybgb-0mpcgzw-emxmea5mvnihgout7s1qm0t8n/work-products.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/about_me/target/debug/incremental/about_me-2qfynxqdl6xwg/s-hd824eybgb-0mpcgzw.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/.rustc_info.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/CACHEDIR.TAG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.cargo-lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-37da73668ea354e5/bin-hello_world" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-37da73668ea354e5/bin-hello_world.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-37da73668ea354e5/dep-bin-hello_world" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-37da73668ea354e5/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-61c6e09dafb0df7a/bin-hello_world" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-61c6e09dafb0df7a/bin-hello_world.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-61c6e09dafb0df7a/dep-bin-hello_world" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-61c6e09dafb0df7a/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-68f2b07f85a88d7f/dep-test-bin-hello_world" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-68f2b07f85a88d7f/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-68f2b07f85a88d7f/test-bin-hello_world" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/.fingerprint/hello_world-68f2b07f85a88d7f/test-bin-hello_world.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/deps/hello_world-37da73668ea354e5.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/deps/hello_world-68f2b07f85a88d7f.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/deps/hello_world.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/deps/hello_world.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/deps/hello_world.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/deps/libhello_world-37da73668ea354e5.rmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/deps/libhello_world-68f2b07f85a88d7f.rmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/hello_world.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/hello_world.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/hello_world.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1ozqp68t57hid/s-hd7bxdi7u4-167x6ip-8wwiuie2ovxuxvgjv6y5mtpxv/dep-graph.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1ozqp68t57hid/s-hd7bxdi7u4-167x6ip-8wwiuie2ovxuxvgjv6y5mtpxv/query-cache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1ozqp68t57hid/s-hd7bxdi7u4-167x6ip-8wwiuie2ovxuxvgjv6y5mtpxv/work-products.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1ozqp68t57hid/s-hd7bxdi7u4-167x6ip.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex-285kmzawv3wg39yz4mbdk9slf/70inm84kyzuiqiaeoq8mknq0i.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex-285kmzawv3wg39yz4mbdk9slf/90dyk2owi8vnimn76vqmqjzb0.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex-285kmzawv3wg39yz4mbdk9slf/9qahzuwpfiae0ochflapzq5ar.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex-285kmzawv3wg39yz4mbdk9slf/9t254ybcm4ztwhi7d95xb2wy4.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex-285kmzawv3wg39yz4mbdk9slf/a9iykjn9yhhkmngx6mezja7pc.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex-285kmzawv3wg39yz4mbdk9slf/b1708kn7g4jzeze9pmxgue44b.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex-285kmzawv3wg39yz4mbdk9slf/dep-graph.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex-285kmzawv3wg39yz4mbdk9slf/query-cache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex-285kmzawv3wg39yz4mbdk9slf/work-products.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1v9sk3nuf19zh/s-hd84t6m1kf-1s7nrex.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1zqrx5wj03ltn/s-hd7bxdi7ru-0k2vw81-0bjlsz9q6b2nmgsw38jiie59b/dep-graph.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1zqrx5wj03ltn/s-hd7bxdi7ru-0k2vw81-0bjlsz9q6b2nmgsw38jiie59b/query-cache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1zqrx5wj03ltn/s-hd7bxdi7ru-0k2vw81-0bjlsz9q6b2nmgsw38jiie59b/work-products.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section_01/hello_world/target/debug/incremental/hello_world-1zqrx5wj03ltn/s-hd7bxdi7ru-0k2vw81.lock" afterDir="false" />
+    <list default="true" id="45eeb234-5666-4d2d-9d18-e1056985b1a1" name="Changes" comment="starting my journey of learning the rust language">
+      <change beforePath="$PROJECT_DIR$/.idea/learning-rust-language.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning-rust-language.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_01/about_me/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/section_01/about_me/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_01/hello_world/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/section_01/hello_world/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JFicchini&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JFicchini/learning-rust-language.git&quot;,
+    &quot;accountId&quot;: &quot;6a885c14-e324-4d6b-9d40-7ef6005f5569&quot;
+  }
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="tctUjg5t" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="35qP7g21Ejb3BGLGklwuZqDNbUi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -137,13 +62,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cargo.Run variables_and_mutability.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/temp/Rust/learning-rust-language",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
     "org.rust.first.attach.projects": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -151,6 +84,31 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Run variables_and_mutability" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="run --package variables_and_mutability --bin variables_and_mutability" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/section_02/variables_and_mutability" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run variables_and_mutability" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
   </component>
@@ -161,11 +119,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763834464631</updated>
-      <workItem from="1763834466546" duration="305000" />
+      <workItem from="1763834466546" duration="5631000" />
+      <workItem from="1763997223873" duration="665000" />
+      <workItem from="1763998651066" duration="1794000" />
+      <workItem from="1764174895490" duration="2598000" />
     </task>
+    <task id="LOCAL-00001" summary="starting my journey of learning the rust language">
+      <option name="closed" value="true" />
+      <created>1763834898785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763834898785</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="starting my journey of learning the rust language" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting my journey of learning the rust language" />
   </component>
 </project>
